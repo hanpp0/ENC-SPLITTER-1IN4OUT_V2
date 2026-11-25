@@ -1,0 +1,39 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\tn-enc-splitter-1in4out-lvds_260215.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\tn-enc-splitter-1in4out-lvds_260215.dsn")
+      (Path "Design Resources" ".\tn-enc-splitter-1in4out-lvds_260215.dsn"
+         "ENC SPLITTER V1.0")
+      (Select "Design Resources" ".\tn-enc-splitter-1in4out-lvds_260215.dsn"
+         "ENC SPLITTER V1.0" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 333"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1792 130 502")
+        (Scroll "-49 270")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "\\192.168.75.20\KMY\ONGOING\ENC_SPLITTER\REF\OLD\TN-ENC-SPLITTER-1IN4OUT-LVDS_260215.DSN")
+      (Schematic "ENC SPLITTER V1.0")
+      (Page "PAGE1"))))

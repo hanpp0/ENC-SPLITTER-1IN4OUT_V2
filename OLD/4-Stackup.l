@@ -1,0 +1,91 @@
+*PADS-LIBRARY-LINE-ITEMS-V9*
+
+4-STACKUP LINES    I -1000 -1000 18 10
+TIMESTAMP 2026.02.20.12.12.09
+OPEN   3 10 24 -1
+1100 50
+1165 115
+1600 115
+OPEN   2 10 24 -1
+1250 0
+1600 0
+OPEN   2 10 24 -1
+1435 -115
+1600 -115
+OPEN   2 50 24 -1
+200 0
+400 0
+OPEN   2 50 24 -1
+1000 0
+1200 0
+CLOSED 5 15 24 -3
+0 -75
+1400 -75
+1400 -155
+0 -155
+0 -75
+OPEN   2 10 24 -1
+1400 -230
+1600 -230
+OPEN   2 10 24 -1
+1435 -345
+1600 -345
+OPEN   2 50 24 -1
+50 -230
+1350 -230
+CLOSED 5 15 24 -1
+0 -305
+1400 -305
+1400 -385
+0 -385
+0 -305
+OPEN   2 10 24 -1
+1400 -460
+1600 -460
+OPEN   2 10 24 -1
+1435 -575
+1600 -575
+OPEN   2 50 24 -1
+50 -460
+1350 -460
+CLOSED 5 15 24 -3
+0 -535
+1400 -535
+1400 -615
+0 -615
+0 -535
+OPEN   3 10 24 -1
+1100 -740
+1165 -805
+1600 -805
+OPEN   2 10 24 -1
+1250 -690
+1600 -690
+OPEN   2 50 24 -1
+200 -690
+400 -690
+OPEN   2 50 24 -1
+1000 -690
+1200 -690
+1650   85     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+SolderMask, THICKNESS=0.012mm, Er=3.50
+1650   -30     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+Top, Component, THICKNESS=0.040mm/1.167oz
+1650   -145     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+Prepreg, THICKNESS=0.200mm, Er=4.18
+1650   -260     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+GND, Plane, THICKNESS=0.032mm/0.933oz
+1650   -375     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+Core, THICKNESS=1.040mm, Er=4.30
+1650   -490     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+GND2, Plane, THICKNESS=0.032mm/0.933oz
+1650   -605     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+Prepreg, THICKNESS=0.200mm, Er=4.18
+1650   -835     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+SolderMask, THICKNESS=0.012mm, Er=3.50
+1650   -720     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+Bottom, Component, THICKNESS = 0.040mm/1.167oz
+1650   -970     0 24  100  10 0 0 0 0 "Regular <PADS Stroke Font>"
+TOTAL THICKNESS=1.608mm
+
+*END*

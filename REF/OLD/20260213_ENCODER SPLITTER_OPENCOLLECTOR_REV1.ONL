@@ -1,0 +1,2255 @@
+(PCB "20260213_ENCODER SPLITTER_OPENCOLLECTOR_REV1"
+ (description
+  (timeStamp "2026 02 19 05 07 48")
+  (program "CAPTURE.EXE" (Version "24.1-2024"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Thursday, February 19, 2026")
+  (document "\\\\NAS\\KMY\\ONGOING\\ENC_SPLITTER\\REF\\20260213_ENCODER SPLITTER_OPENCOLLECTOR_REV1.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component R
+   (place R57
+    (property 
+     (timestamp 01004F9B)
+     ("Source Package" R)
+     (Value 1608_4.7K)
+     ("PCB Footprint" R1608)))
+   (place R25
+    (property 
+     (timestamp 00FF3F4B)
+     ("Source Package" R)
+     (Value 1608_10)
+     ("PCB Footprint" R1608)))
+   (place R58
+    (property 
+     (timestamp 0100511A)
+     ("Source Package" R)
+     (Value 1608_4.7K)
+     ("PCB Footprint" R1608)))
+   (place R26
+    (property 
+     (timestamp 00FF4147)
+     ("Source Package" R)
+     (Value 1608_10)
+     ("PCB Footprint" R1608)))
+   (place R59
+    (property 
+     (timestamp 01004FA7)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R27
+    (property 
+     (timestamp 01004AF7)
+     ("Source Package" R)
+     (Value 1608_4.7K)
+     ("PCB Footprint" R1608)))
+   (place R28
+    (property 
+     (timestamp 01004D21)
+     ("Source Package" R)
+     (Value 1608_4.7K)
+     ("PCB Footprint" R1608)))
+   (place R29
+    (property 
+     (timestamp 01004B03)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R60
+    (property 
+     (timestamp 01005126)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R61
+    (property 
+     (timestamp 01004FB3)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R62
+    (property 
+     (timestamp 01005132)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R30
+    (property 
+     (timestamp 01004D2D)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R1
+    (property 
+     (timestamp 00FF20F9)
+     ("Source Package" R)
+     (Value 1608_15K)
+     ("PCB Footprint" R1608)))
+   (place R63
+    (property 
+     (timestamp 01004FBB)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R31
+    (property 
+     (timestamp 01004B0F)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R2
+    (property 
+     (timestamp 01000865)
+     ("Source Package" R)
+     (Value 1608_68K_DNI)
+     ("PCB Footprint" R1608)))
+   (place R64
+    (property 
+     (timestamp 0100513A)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R32
+    (property 
+     (timestamp 01004D39)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R3
+    (property 
+     (timestamp 00FF223C)
+     ("Source Package" R)
+     (Value 1608_15K)
+     ("PCB Footprint" R1608)))
+   (place R65
+    (property 
+     (timestamp 01004FFA)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R33
+    (property 
+     (timestamp 01004B17)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R4
+    (property 
+     (timestamp 00FF2441)
+     ("Source Package" R)
+     (Value 1608_100)
+     ("PCB Footprint" R1608)))
+   (place R66
+    (property 
+     (timestamp 01005179)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R34
+    (property 
+     (timestamp 01004D41)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R5
+    (property 
+     (timestamp 00FF2199)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R35
+    (property 
+     (timestamp 01004B56)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R67
+    (property 
+     (timestamp 00FF4DC3)
+     ("Source Package" R)
+     (Value 1608_100K)
+     ("PCB Footprint" R1608)))
+   (place R6
+    (property 
+     (timestamp 00FF24F3)
+     ("Source Package" R)
+     (Value 1608_100)
+     ("PCB Footprint" R1608)))
+   (place R36
+    (property 
+     (timestamp 01004D80)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R68
+    (property 
+     (timestamp 00FF504F)
+     ("Source Package" R)
+     (Value 1608_52.5K_1%)
+     ("PCB Footprint" R1608)))
+   (place R7
+    (property 
+     (timestamp 00FF23B2)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R37
+    (property 
+     (timestamp 01004B82)
+     ("Source Package" R)
+     (Value 1608_4.7K)
+     ("PCB Footprint" R1608)))
+   (place R8
+    (property 
+     (timestamp 01002B18)
+     ("Source Package" R)
+     (Value 1608_0)
+     ("PCB Footprint" R1608)))
+   (place R69
+    (property 
+     (timestamp 00FF4F9F)
+     ("Source Package" R)
+     (Value 1608_10K_1%)
+     ("PCB Footprint" R1608)))
+   (place R38
+    (property 
+     (timestamp 01004DAC)
+     ("Source Package" R)
+     (Value 1608_4.7K)
+     ("PCB Footprint" R1608)))
+   (place R9
+    (property 
+     (timestamp 01002AEF)
+     ("Source Package" R)
+     (Value 1608_0)
+     ("PCB Footprint" R1608)))
+   (place R39
+    (property 
+     (timestamp 01004B8E)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R70
+    (property 
+     (timestamp 00FF4F0F)
+     ("Source Package" R)
+     (Value 1608_7.5K)
+     ("PCB Footprint" R1608)))
+   (place R71
+    (property 
+     (timestamp 00FF5039)
+     ("Source Package" R)
+     (Value 1608_1K)
+     ("PCB Footprint" R1608)))
+   (place R40
+    (property 
+     (timestamp 01004DB8)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R72
+    (property 
+     (timestamp 00FF5AE7)
+     ("Source Package" R)
+     (Value 1608_1K)
+     ("PCB Footprint" R1608)))
+   (place R41
+    (property 
+     (timestamp 01004B9A)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R73
+    (property 
+     (timestamp 00FF5786)
+     ("Source Package" R)
+     (Value 1608_100K)
+     ("PCB Footprint" R1608)))
+   (place R42
+    (property 
+     (timestamp 01004DC4)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R74
+    (property 
+     (timestamp 00FF5824)
+     ("Source Package" R)
+     (Value 1608_31.25K_1%)
+     ("PCB Footprint" R1608)))
+   (place R10
+    (property 
+     (timestamp 00FF2275)
+     ("Source Package" R)
+     (Value 1608_470K)
+     ("PCB Footprint" R1608)))
+   (place R43
+    (property 
+     (timestamp 01004BA2)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R11
+    (property 
+     (timestamp 00FF7A56)
+     ("Source Package" R)
+     (Value 1608_15K)
+     ("PCB Footprint" R1608)))
+   (place R75
+    (property 
+     (timestamp 00FF5880)
+     ("Source Package" R)
+     (Value 1608_10K_1%)
+     ("PCB Footprint" R1608)))
+   (place R44
+    (property 
+     (timestamp 01004DCC)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R12
+    (property 
+     (timestamp 010008F9)
+     ("Source Package" R)
+     (Value 1608_68K_DNI)
+     ("PCB Footprint" R1608)))
+   (place R76
+    (property 
+     (timestamp 00FF58D8)
+     ("Source Package" R)
+     (Value 1608_5.6K)
+     ("PCB Footprint" R1608)))
+   (place R45
+    (property 
+     (timestamp 01004BE1)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R13
+    (property 
+     (timestamp 00FF7A66)
+     ("Source Package" R)
+     (Value 1608_15K)
+     ("PCB Footprint" R1608)))
+   (place R46
+    (property 
+     (timestamp 01004E0B)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R14
+    (property 
+     (timestamp 00FF7AC6)
+     ("Source Package" R)
+     (Value 1608_100)
+     ("PCB Footprint" R1608)))
+   (place R47
+    (property 
+     (timestamp 01004F10)
+     ("Source Package" R)
+     (Value 1608_4.7K)
+     ("PCB Footprint" R1608)))
+   (place R15
+    (property 
+     (timestamp 00FF7B38)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R48
+    (property 
+     (timestamp 0100508F)
+     ("Source Package" R)
+     (Value 1608_4.7K)
+     ("PCB Footprint" R1608)))
+   (place R16
+    (property 
+     (timestamp 00FF7AF2)
+     ("Source Package" R)
+     (Value 1608_100)
+     ("PCB Footprint" R1608)))
+   (place R49
+    (property 
+     (timestamp 01004F1C)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R17
+    (property 
+     (timestamp 00FF7B50)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R18
+    (property 
+     (timestamp 00FF7BA0)
+     ("Source Package" R)
+     (Value 1608_470K)
+     ("PCB Footprint" R1608)))
+   (place R19
+    (property 
+     (timestamp 00FF3E1F)
+     ("Source Package" R)
+     (Value 1608_10)
+     ("PCB Footprint" R1608)))
+   (place R50
+    (property 
+     (timestamp 0100509B)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R51
+    (property 
+     (timestamp 01004F28)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R52
+    (property 
+     (timestamp 010050A7)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R20
+    (property 
+     (timestamp 00FF404B)
+     ("Source Package" R)
+     (Value 1608_10)
+     ("PCB Footprint" R1608)))
+   (place R53
+    (property 
+     (timestamp 01004F30)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R21
+    (property 
+     (timestamp 00FF3EFA)
+     ("Source Package" R)
+     (Value 1608_10)
+     ("PCB Footprint" R1608)))
+   (place R54
+    (property 
+     (timestamp 010050AF)
+     ("Source Package" R)
+     (Value 1K)
+     ("PCB Footprint" R1608)))
+   (place R22
+    (property 
+     (timestamp 00FF409F)
+     ("Source Package" R)
+     (Value 1608_10)
+     ("PCB Footprint" R1608)))
+   (place R55
+    (property 
+     (timestamp 01004F6F)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R23
+    (property 
+     (timestamp 00FF3F22)
+     ("Source Package" R)
+     (Value 1608_10)
+     ("PCB Footprint" R1608)))
+   (place R56
+    (property 
+     (timestamp 010050EE)
+     ("Source Package" R)
+     (Value 1608_10K)
+     ("PCB Footprint" R1608)))
+   (place R24
+    (property 
+     (timestamp 00FF40F3)
+     ("Source Package" R)
+     (Value 1608_10)
+     ("PCB Footprint" R1608))))
+  (component CON2
+   (place J6
+    (property 
+     (timestamp 00FF50F9)
+     ("Source Package" CON2)
+     (Value "15EDGRC-3.81_2P")
+     ("PCB Footprint" "15EDGVC-3.81_2P"))))
+  (component CAP
+   (place C31
+    (property 
+     (timestamp 00FF5143)
+     ("Source Package" CAP)
+     (Value 1608_10nF)
+     ("PCB Footprint" C1608)))
+   (place C32
+    (property 
+     (timestamp 00FF4FD3)
+     ("Source Package" CAP)
+     (Value 3225_10uF/35V)
+     ("PCB Footprint" C3225)))
+   (place C33
+    (property 
+     (timestamp 00FF5065)
+     ("Source Package" CAP)
+     (Value 3225_10uF/35V)
+     ("PCB Footprint" C3225)))
+   (place C34
+    (property 
+     (timestamp 00FF5159)
+     ("Source Package" CAP)
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C35
+    (property 
+     (timestamp 00FF4D2D)
+     ("Source Package" CAP)
+     (Value 1608_3.3nF)
+     ("PCB Footprint" C1608)))
+   (place C36
+    (property 
+     (timestamp 00FF4E27)
+     ("Source Package" CAP)
+     (Value 3225_22uF/6.3V)
+     ("PCB Footprint" C3225)))
+   (place C37
+    (property 
+     (timestamp 00FF4E65)
+     ("Source Package" CAP)
+     (Value 3225_22uF/6.3V)
+     ("PCB Footprint" C3225)))
+   (place C38
+    (property 
+     (timestamp 00FF574A)
+     ("Source Package" CAP)
+     (Value 1608_10nF)
+     ("PCB Footprint" C1608)))
+   (place C39
+    (property 
+     (timestamp 00FF5796)
+     ("Source Package" CAP)
+     (Value 3225_10uF/35V)
+     ("PCB Footprint" C3225)))
+   (place C40
+    (property 
+     (timestamp 00FF57A6)
+     ("Source Package" CAP)
+     (Value 3225_10uF/35V)
+     ("PCB Footprint" C3225)))
+   (place C41
+    (property 
+     (timestamp 00FF5850)
+     ("Source Package" CAP)
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C42
+    (property 
+     (timestamp 00FF5898)
+     ("Source Package" CAP)
+     (Value 1608_3.3nF)
+     ("PCB Footprint" C1608)))
+   (place C43
+    (property 
+     (timestamp 00FF58A8)
+     ("Source Package" CAP)
+     (Value 3225_22uF/6.3V)
+     ("PCB Footprint" C3225)))
+   (place C44
+    (property 
+     (timestamp 00FF58B8)
+     ("Source Package" CAP)
+     (Value 3225_22uF/6.3V)
+     ("PCB Footprint" C3225))))
+  (component "CAP NP"
+   (place C20
+    (property 
+     (timestamp 00FF922F)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C21
+    (property 
+     (timestamp 00FF98B5)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C22
+    (property 
+     (timestamp 00FF98C5)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C23
+    (property 
+     (timestamp 01004B5E)
+     ("Source Package" "CAP NP")
+     (Value 1608_10pF)
+     ("PCB Footprint" C1608)))
+   (place C24
+    (property 
+     (timestamp 01004D88)
+     ("Source Package" "CAP NP")
+     (Value 1608_10pF)
+     ("PCB Footprint" C1608)))
+   (place C25
+    (property 
+     (timestamp 01004BE9)
+     ("Source Package" "CAP NP")
+     (Value 1608_10pF)
+     ("PCB Footprint" C1608)))
+   (place C26
+    (property 
+     (timestamp 01004E13)
+     ("Source Package" "CAP NP")
+     (Value 1608_10pF)
+     ("PCB Footprint" C1608)))
+   (place C27
+    (property 
+     (timestamp 01004F77)
+     ("Source Package" "CAP NP")
+     (Value 1608_10pF)
+     ("PCB Footprint" C1608)))
+   (place C28
+    (property 
+     (timestamp 010050F6)
+     ("Source Package" "CAP NP")
+     (Value 1608_10pF)
+     ("PCB Footprint" C1608)))
+   (place C29
+    (property 
+     (timestamp 01005002)
+     ("Source Package" "CAP NP")
+     (Value 1608_10pF)
+     ("PCB Footprint" C1608)))
+   (place C1
+    (property 
+     (timestamp 00FF6D4E)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C2
+    (property 
+     (timestamp 00FF66DD)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C3
+    (property 
+     (timestamp 00FF81B7)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C4
+    (property 
+     (timestamp 00FF7A82)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C5
+    (property 
+     (timestamp 00FF7B7C)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C6
+    (property 
+     (timestamp 00FF8368)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C7
+    (property 
+     (timestamp 00FF8EEC)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C8
+    (property 
+     (timestamp 00FF8EFC)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C9
+    (property 
+     (timestamp 00FF9552)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C30
+    (property 
+     (timestamp 01005181)
+     ("Source Package" "CAP NP")
+     (Value 1608_10pF)
+     ("PCB Footprint" C1608)))
+   (place C10
+    (property 
+     (timestamp 00FF9562)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C11
+    (property 
+     (timestamp 00FF8FF9)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C12
+    (property 
+     (timestamp 00FF9009)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C13
+    (property 
+     (timestamp 00FF966F)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C14
+    (property 
+     (timestamp 00FF967F)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C15
+    (property 
+     (timestamp 00FF910A)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C16
+    (property 
+     (timestamp 00FF911A)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C17
+    (property 
+     (timestamp 00FF9790)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608)))
+   (place C18
+    (property 
+     (timestamp 00FF97A0)
+     ("Source Package" "CAP NP")
+     (Value 1608_2.2uF)
+     ("PCB Footprint" C1608)))
+   (place C19
+    (property 
+     (timestamp 00FF921F)
+     ("Source Package" "CAP NP")
+     (Value 1608_0.1uF)
+     ("PCB Footprint" C1608))))
+  (component MMBT2907A/SOT
+   (place Q6
+    (property 
+     (timestamp 01004DD5)
+     ("Source Package" MMBT2907A/SOT)
+     (Value MMBT2907A/SOT)
+     ("PCB Footprint" "SOT23-3")))
+   (place Q9
+    (property 
+     (timestamp 01004F39)
+     ("Source Package" MMBT2907A/SOT)
+     (Value MMBT2907A/SOT)
+     ("PCB Footprint" "SOT23-3")))
+   (place Q10
+    (property 
+     (timestamp 010050B8)
+     ("Source Package" MMBT2907A/SOT)
+     (Value MMBT2907A/SOT)
+     ("PCB Footprint" "SOT23-3")))
+   (place Q13
+    (property 
+     (timestamp 01004FC4)
+     ("Source Package" MMBT2907A/SOT)
+     (Value MMBT2907A/SOT)
+     ("PCB Footprint" "SOT23-3")))
+   (place Q14
+    (property 
+     (timestamp 01005143)
+     ("Source Package" MMBT2907A/SOT)
+     (Value MMBT2907A/SOT)
+     ("PCB Footprint" "SOT23-3")))
+   (place Q1
+    (property 
+     (timestamp 01004B20)
+     ("Source Package" MMBT2907A/SOT)
+     (Value MMBT2907A/SOT)
+     ("PCB Footprint" "SOT23-3")))
+   (place Q2
+    (property 
+     (timestamp 01004D4A)
+     ("Source Package" MMBT2907A/SOT)
+     (Value MMBT2907A/SOT)
+     ("PCB Footprint" "SOT23-3")))
+   (place Q5
+    (property 
+     (timestamp 01004BAB)
+     ("Source Package" MMBT2907A/SOT)
+     (Value MMBT2907A/SOT)
+     ("PCB Footprint" "SOT23-3"))))
+  (component "SM24-02HTG"
+   (place U13
+    (property 
+     (timestamp 01006552)
+     ("Source Package" "SM24-02HTG")
+     (Value "SM24-02HTG")
+     ("PCB Footprint" "SOT23-3")))
+   (place U14
+    (property 
+     (timestamp 010065F9)
+     ("Source Package" "SM24-02HTG")
+     (Value "SM24-02HTG")
+     ("PCB Footprint" "SOT23-3")))
+   (place U11
+    (property 
+     (timestamp 010061E4)
+     ("Source Package" "SM24-02HTG")
+     (Value "SM24-02HTG")
+     ("PCB Footprint" "SOT23-3")))
+   (place U12
+    (property 
+     (timestamp 0100641C)
+     ("Source Package" "SM24-02HTG")
+     (Value "SM24-02HTG")
+     ("PCB Footprint" "SOT23-3"))))
+  (component LED_0
+   (place D3
+    (property 
+     (timestamp 00FF510F)
+     ("Source Package" LED_0)
+     (Value "3mm Blue (3AB3HD00)")
+     ("PCB Footprint" "LED3-B")))
+   (place D4
+    (property 
+     (timestamp 00FF5AF7)
+     ("Source Package" LED_0)
+     (Value 1608_LED)
+     ("PCB Footprint" LED1608))))
+  (component TLV3501
+   (place U1
+    (property 
+     (timestamp 00FF22A6)
+     ("Source Package" TLV3501)
+     (Value "TLV3501A-SOIC")
+     ("PCB Footprint" TLV3501A_SOIC8)))
+   (place U2
+    (property 
+     (timestamp 00FF7AA6)
+     ("Source Package" TLV3501)
+     (Value "TLV3501A-SOIC")
+     ("PCB Footprint" TLV3501A_SOIC8))))
+  (component CON5
+   (place J1
+    (property 
+     (timestamp 01001FC8)
+     ("Source Package" CON5)
+     (Value "15EDGRC-3.81_5P")
+     ("PCB Footprint" "15EDGVC-3.81_5P"))))
+  (component CON4
+   (place J2
+    (property 
+     (timestamp 01005B2F)
+     ("Source Package" CON4)
+     (Value "15EDGRC-3.81_4P")
+     ("PCB Footprint" "15EDGVC-3.81_4P")))
+   (place J3
+    (property 
+     (timestamp 010077CD)
+     ("Source Package" CON4)
+     (Value "15EDGRC-3.81_4P")
+     ("PCB Footprint" "15EDGVC-3.81_4P")))
+   (place J4
+    (property 
+     (timestamp 01007865)
+     ("Source Package" CON4)
+     (Value "15EDGRC-3.81_4P")
+     ("PCB Footprint" "15EDGVC-3.81_4P")))
+   (place J5
+    (property 
+     (timestamp 01007902)
+     ("Source Package" CON4)
+     (Value "15EDGRC-3.81_4P")
+     ("PCB Footprint" "15EDGVC-3.81_4P"))))
+  (component 2N7002WT1G
+   (place Q7
+    (property 
+     ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+     (DevicesInView 1)
+     (timestamp 01004BC0)
+     ("Source Package" 2N7002WT1G)
+     (OriginalSymbolOrigin "(0,0)")
+     (IsHeterogeneous False)
+     ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+     (Value "BSS138DW1T1H-WS")
+     (DeviceNumbering Alpha)
+     (DevicesInPackage 1)
+     (PackageName 2N7002WT1G)
+     ("PCB Footprint" "SOT23-3")
+     (Manufacturer_Part_Number 2N7002WT1G)
+     (DeviceDesignator A)
+     ("Mouser Part Number" "863-2N7002WT1G")
+     (Height "1 mm")
+     (Manufacturer_Name onsemi)))
+   (place Q8
+    (property 
+     ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+     (DevicesInView 1)
+     (timestamp 01004DEA)
+     ("Source Package" 2N7002WT1G)
+     (OriginalSymbolOrigin "(0,0)")
+     (IsHeterogeneous False)
+     ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+     (Value "BSS138DW1T1H-WS")
+     (DeviceNumbering Alpha)
+     (DevicesInPackage 1)
+     (PackageName 2N7002WT1G)
+     ("PCB Footprint" "SOT23-3")
+     (Manufacturer_Part_Number 2N7002WT1G)
+     (DeviceDesignator A)
+     ("Mouser Part Number" "863-2N7002WT1G")
+     (Height "1 mm")
+     (Manufacturer_Name onsemi)))
+   (place Q11
+    (property 
+     ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+     (DevicesInView 1)
+     (timestamp 01004F4E)
+     ("Source Package" 2N7002WT1G)
+     (OriginalSymbolOrigin "(0,0)")
+     (IsHeterogeneous False)
+     ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+     (Value "BSS138DW1T1H-WS")
+     (DeviceNumbering Alpha)
+     (DevicesInPackage 1)
+     (PackageName 2N7002WT1G)
+     ("PCB Footprint" "SOT23-3")
+     (Manufacturer_Part_Number 2N7002WT1G)
+     (DeviceDesignator A)
+     ("Mouser Part Number" "863-2N7002WT1G")
+     (Height "1 mm")
+     (Manufacturer_Name onsemi)))
+   (place Q12
+    (property 
+     ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+     (DevicesInView 1)
+     (timestamp 010050CD)
+     ("Source Package" 2N7002WT1G)
+     (OriginalSymbolOrigin "(0,0)")
+     (IsHeterogeneous False)
+     ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+     (Value "BSS138DW1T1H-WS")
+     (DeviceNumbering Alpha)
+     (DevicesInPackage 1)
+     (PackageName 2N7002WT1G)
+     ("PCB Footprint" "SOT23-3")
+     (Manufacturer_Part_Number 2N7002WT1G)
+     (DeviceDesignator A)
+     ("Mouser Part Number" "863-2N7002WT1G")
+     (Height "1 mm")
+     (Manufacturer_Name onsemi)))
+   (place Q15
+    (property 
+     ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+     (DevicesInView 1)
+     (timestamp 01004FD9)
+     ("Source Package" 2N7002WT1G)
+     (OriginalSymbolOrigin "(0,0)")
+     (IsHeterogeneous False)
+     ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+     (Value "BSS138DW1T1H-WS")
+     (DeviceNumbering Alpha)
+     (DevicesInPackage 1)
+     (PackageName 2N7002WT1G)
+     ("PCB Footprint" "SOT23-3")
+     (Manufacturer_Part_Number 2N7002WT1G)
+     (DeviceDesignator A)
+     ("Mouser Part Number" "863-2N7002WT1G")
+     (Height "1 mm")
+     (Manufacturer_Name onsemi)))
+   (place Q16
+    (property 
+     ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+     (DevicesInView 1)
+     (timestamp 01005158)
+     ("Source Package" 2N7002WT1G)
+     (OriginalSymbolOrigin "(0,0)")
+     (IsHeterogeneous False)
+     ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+     (Value "BSS138DW1T1H-WS")
+     (DeviceNumbering Alpha)
+     (DevicesInPackage 1)
+     (PackageName 2N7002WT1G)
+     ("PCB Footprint" "SOT23-3")
+     (Manufacturer_Part_Number 2N7002WT1G)
+     (DeviceDesignator A)
+     ("Mouser Part Number" "863-2N7002WT1G")
+     (Height "1 mm")
+     (Manufacturer_Name onsemi)))
+   (place Q3
+    (property 
+     ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+     (DevicesInView 1)
+     (timestamp 01004B35)
+     ("Source Package" 2N7002WT1G)
+     (OriginalSymbolOrigin "(0,0)")
+     (IsHeterogeneous False)
+     ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+     (Value "BSS138DW1T1H-WS")
+     (DeviceNumbering Alpha)
+     (DevicesInPackage 1)
+     (PackageName 2N7002WT1G)
+     ("PCB Footprint" "SOT23-3")
+     (Manufacturer_Part_Number 2N7002WT1G)
+     (DeviceDesignator A)
+     ("Mouser Part Number" "863-2N7002WT1G")
+     (Height "1 mm")
+     (Manufacturer_Name onsemi)))
+   (place Q4
+    (property 
+     ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+     (DevicesInView 1)
+     (timestamp 01004D5F)
+     ("Source Package" 2N7002WT1G)
+     (OriginalSymbolOrigin "(0,0)")
+     (IsHeterogeneous False)
+     ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+     (Value "BSS138DW1T1H-WS")
+     (DeviceNumbering Alpha)
+     (DevicesInPackage 1)
+     (PackageName 2N7002WT1G)
+     ("PCB Footprint" "SOT23-3")
+     (Manufacturer_Part_Number 2N7002WT1G)
+     (DeviceDesignator A)
+     ("Mouser Part Number" "863-2N7002WT1G")
+     (Height "1 mm")
+     (Manufacturer_Name onsemi))))
+  (component "HEADER 1"
+   (place M1
+    (property 
+     (timestamp 00FF5183)
+     ("Source Package" "HEADER 1")
+     (Value "MOUNT HOLE")
+     ("PCB Footprint" "TH-3.2K5")))
+   (place M2
+    (property 
+     (timestamp 00FF4D41)
+     ("Source Package" "HEADER 1")
+     (Value "MOUNT HOLE")
+     ("PCB Footprint" "TH-3.2K5")))
+   (place M3
+    (property 
+     (timestamp 00FF4E3B)
+     ("Source Package" "HEADER 1")
+     (Value "MOUNT HOLE")
+     ("PCB Footprint" "TH-3.2K5")))
+   (place M4
+    (property 
+     (timestamp 00FF4EFB)
+     ("Source Package" "HEADER 1")
+     (Value "MOUNT HOLE")
+     ("PCB Footprint" "TH-3.2K5"))))
+  (component "FUSE THERMAL"
+   (place F1
+    (property 
+     (timestamp 00FF4D81)
+     ("Source Package" "FUSE THERMAL")
+     (Value "FSMD075-24R-1812")
+     ("PCB Footprint" F1812))))
+  (component BAT54S/SOT
+   (place D1
+    (property 
+     (timestamp 00FF21E3)
+     ("Source Package" BAT54S/SOT)
+     (Value BAT54S/SOT)
+     ("PCB Footprint" "SOT23-3")))
+   (place D2
+    (property 
+     (timestamp 00FF7B04)
+     ("Source Package" BAT54S/SOT)
+     (Value BAT54S/SOT)
+     ("PCB Footprint" "SOT23-3"))))
+  (component Jumper_2
+   (place JP1
+    (property 
+     (timestamp 010083EB)
+     ("Source Package" Jumper_2)
+     (Value DNI)
+     ("PCB Footprint" JUMP_SOLDER))))
+  (component FODM8061
+   (place U3
+    (property 
+     (timestamp 00FF3A65)
+     ("Source Package" FODM8061)
+     (Value FODM8061)
+     ("PCB Footprint" FODM8061_SOIC5)))
+   (place U4
+    (property 
+     (timestamp 00FF403B)
+     ("Source Package" FODM8061)
+     (Value FODM8061)
+     ("PCB Footprint" FODM8061_SOIC5)))
+   (place U5
+    (property 
+     (timestamp 00FF3BE6)
+     ("Source Package" FODM8061)
+     (Value FODM8061)
+     ("PCB Footprint" FODM8061_SOIC5)))
+   (place U6
+    (property 
+     (timestamp 00FF408F)
+     ("Source Package" FODM8061)
+     (Value FODM8061)
+     ("PCB Footprint" FODM8061_SOIC5)))
+   (place U7
+    (property 
+     (timestamp 00FF3C62)
+     ("Source Package" FODM8061)
+     (Value FODM8061)
+     ("PCB Footprint" FODM8061_SOIC5)))
+   (place U8
+    (property 
+     (timestamp 00FF40E3)
+     ("Source Package" FODM8061)
+     (Value FODM8061)
+     ("PCB Footprint" FODM8061_SOIC5)))
+   (place U9
+    (property 
+     (timestamp 00FF3CE3)
+     ("Source Package" FODM8061)
+     (Value FODM8061)
+     ("PCB Footprint" FODM8061_SOIC5)))
+   (place U10
+    (property 
+     (timestamp 00FF4137)
+     ("Source Package" FODM8061)
+     (Value FODM8061)
+     ("PCB Footprint" FODM8061_SOIC5))))
+  (component INDUCTOR
+   (place L1
+    (property 
+     (timestamp 00FFB3B2)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L2
+    (property 
+     (timestamp 010070F7)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L3
+    (property 
+     (timestamp 010077B9)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L4
+    (property 
+     (timestamp 01007851)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L5
+    (property 
+     (timestamp 010078EE)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L6
+    (property 
+     (timestamp 00FFB675)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L7
+    (property 
+     (timestamp 00FFB790)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L8
+    (property 
+     (timestamp 00FFB7A0)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L9
+    (property 
+     (timestamp 00FFB7B0)
+     ("Source Package" INDUCTOR)
+     (Value 3216_BEAD)
+     ("PCB Footprint" B3216)))
+   (place L10
+    (property 
+     (timestamp 00FF5197)
+     ("Source Package" INDUCTOR)
+     (Value "EMC6530-10uH")
+     ("PCB Footprint" "EMC6530-10UH")))
+   (place L11
+    (property 
+     (timestamp 00FF57F4)
+     ("Source Package" INDUCTOR)
+     (Value "EMC6530-10uH")
+     ("PCB Footprint" "EMC6530-10UH"))))
+  (component MP2403_1
+   (place U15
+    (property 
+     (timestamp 00FF500D)
+     ("Source Package" MP2403_1)
+     (Value MP2403)
+     ("PCB Footprint" "MP2403DN_SOIC8N-EP")))
+   (place U16
+    (property 
+     (timestamp 00FF57C4)
+     ("Source Package" MP2403_1)
+     (Value MP2403)
+     ("PCB Footprint" "MP2403DN_SOIC8N-EP")))))
+ (library
+  (image "SM24-02HTG"
+   (property 
+    (sourcelib D:\\PROJECT\\THEWIEW\\20260212\\LIBRARY1.OLB))
+   (pin 999 1
+    (property 
+     (pinname D1)
+     (pintype 4)
+     (Name D1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" PLC_X2)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname D2)
+     (pintype 4)
+     (Name D2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" PLC_Y2)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname GND)
+     (pintype 4)
+     (Name GND)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image R
+   (property 
+    (sourcelib D:\\ORCAD\\DESIGNS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" P24V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16797613)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image MMBT2907A/SOT
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.4\\TOOLS\\CAPTURE\\LIBRARY\\TRANSISTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname B)
+     (pintype 4)
+     (Name B)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16797118)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname E)
+     (pintype 4)
+     (Name E)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" P24V)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname C)
+     (pintype 4)
+     (Name C)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" PLC_Y1)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image 2N7002WT1G
+   (property 
+    (sourcelib C:\\PROJECT\\IXPM\\IXPM_COMEX\\2N7002WT1G.OLB)
+    (PackageName 2N7002WT1G)
+    (IsHeterogeneous False)
+    (DevicesInView 1)
+    (DevicesInPackage 1)
+    (DeviceDesignator A)
+    (DeviceNumbering Alpha)
+    ("PCB Footprint" "SOT65P220X100-3N")
+    ("Mouser Part Number" "863-2N7002WT1G")
+    ("Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/onsemi/2N7002WT1G?qs=Jh7l0IbPjidRgzyVQt6XnwDD)
+    (Manufacturer_Name onsemi)
+    (Manufacturer_Part_Number 2N7002WT1G)
+    ("Datasheet Link" "http://www.onsemi.com/pub/Collateral/2N7002W-D.PDF")
+    (Height "1 mm")
+    (OriginalSymbolOrigin "(0,0)"))
+   (pin 999 1
+    (property 
+     (pinname G)
+     (pintype 4)
+     (Name G)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" OP_ENC_B0)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname S)
+     (pintype 4)
+     (Name S)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16796593)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname D)
+     (pintype 4)
+     (Name D)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image MP2403_1
+   (property 
+    (sourcelib "D:\\WORK\\PCB설계\\더뷰나인\\2024-03\\JOBFILE\\회로도\\REPEATER_0319.DSN"))
+   (pin 999 1
+    (property 
+     (pinname BS)
+     (pintype 4)
+     (Name BS)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731359)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname IN)
+     (pintype 4)
+     (Name IN)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" P24V)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname SW)
+     (pintype 4)
+     (Name SW)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731357)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname GND)
+     (pintype 4)
+     (Name GND)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname FB)
+     (pintype 4)
+     (Name FB)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731337)
+     (Order 4)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname COMP)
+     (pintype 4)
+     (Name COMP)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731329)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname EN)
+     (pintype 4)
+     (Name EN)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731383)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname SS)
+     (pintype 4)
+     (Name SS)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731323)
+     (Order 7)
+     ("Is No Connect" False)))
+   (pin 999 9
+    (property 
+     (pinname E.P)
+     (pintype 4)
+     (Name E.P)
+     (Number 9)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 8)
+     ("Is No Connect" False))))
+  (image "CAP NP"
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.4\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" P3.3V)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image TLV3501
+   (property 
+    (sourcelib D:\\PROJECT\\THEWIEW\\THEVIEW.OLB))
+   (pin 999 1
+    (property 
+     (pinname NC)
+     (pintype 4)
+     (Name NC)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     (Order 0)
+     ("Is No Connect" True)))
+   (pin 999 2
+    (property 
+     (pinname "IN-")
+     (pintype 4)
+     (Name "IN-")
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16720287)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname IN+)
+     (pintype 4)
+     (Name IN+)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16742721)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname "V-")
+     (pintype 4)
+     (Name "V-")
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname NC)
+     (pintype 4)
+     (Name NC)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Passive)
+     (Order 4)
+     ("Is No Connect" True)))
+   (pin 999 6
+    (property 
+     (pinname OUT)
+     (pintype 4)
+     (Name OUT)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16720602)
+     (Order 5)
+     ("Is No Connect" False)))
+   (pin 999 7
+    (property 
+     (pinname V+)
+     (pintype 4)
+     (Name V+)
+     (Number 7)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" P3.3V)
+     (Order 6)
+     ("Is No Connect" False)))
+   (pin 999 8
+    (property 
+     (pinname SHDN)
+     (pintype 4)
+     (Name SHDN)
+     (Number 8)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 7)
+     ("Is No Connect" False))))
+  (image FODM8061
+   (property 
+    (sourcelib D:\\PROJECT\\THEWIEW\\THEVIEW.OLB))
+   (pin 999 1
+    (property 
+     (pinname AN)
+     (pintype 4)
+     (Name AN)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16726862)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname CA)
+     (pintype 4)
+     (Name CA)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname GND)
+     (pintype 4)
+     (Name GND)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname VO)
+     (pintype 4)
+     (Name VO)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" OP_ENC_A0)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 6
+    (property 
+     (pinname VCC)
+     (pintype 4)
+     (Name VCC)
+     (Number 6)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" P3.3V)
+     (Order 4)
+     ("Is No Connect" False))))
+  (image INDUCTOR
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.4\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16758104)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image "FUSE THERMAL"
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.4\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731387)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" P24V)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image Jumper_2
+   (property 
+    (sourcelib "C:\\USERS\\HANMA\\DESKTOP\\260211_ENC_SPLITTER V1.0A_260210_PCB\\20260213_ENCODER SPLITTER_LVDS_REV1_260214A.DSN"))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16757311)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)
+     (Name 3)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16788302)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16788254)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image CAP
+   (property 
+    (sourcelib C:\\SOURCE\\BOARDS\\ORCAD\\DISCRETES.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731359)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731357)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image "HEADER 1"
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16758722)
+     (Order 0)
+     ("Is No Connect" False))))
+  (image CON5
+   (property 
+    (sourcelib C:\\ORCAD\\ORCAD_10.0\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16757311)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" IN_A)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)
+     (Name 3)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" IN_B)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)
+     (Name 4)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 3)
+     ("Is No Connect" False)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)
+     (Name 5)
+     (Number 5)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16758104)
+     (Order 4)
+     ("Is No Connect" False))))
+  (image CON4
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.3\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" PLC_X0)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" PLC_Y0)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)
+     (Name 3)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 2)
+     ("Is No Connect" False)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)
+     (Name 4)
+     (Number 4)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16800583)
+     (Order 3)
+     ("Is No Connect" False))))
+  (image BAT54S/SOT
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.4\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)
+     (Name 3)
+     (Number 3)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16720287)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" P3.3V)
+     (Order 2)
+     ("Is No Connect" False))))
+  (image CON2
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_17.4\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)
+     (Name 1)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731387)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)
+     (Name 2)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False))))
+  (image LED_0
+   (property 
+    (sourcelib "\\\\NAS\\KMY\\ONGOING\\ENC_SPLITTER\\REF\\20260213_ENCODER SPLITTER_OPENCOLLECTOR_REV1.DSN"))
+   (pin 999 1
+    (property 
+     (pinname ANODE)
+     (pintype 4)
+     (Name ANODE)
+     (Number 1)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" N16731415)
+     (Order 0)
+     ("Is No Connect" False)))
+   (pin 999 2
+    (property 
+     (pinname CATHODE)
+     (pintype 4)
+     (Name CATHODE)
+     (Number 2)
+     ("Swap Id" "-1")
+     (Type Passive)
+     ("Net Name" GND)
+     (Order 1)
+     ("Is No Connect" False)))))
+ (network
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     R5-2 D1-1 U1-4 U1-8 R7-1 U3-3 U3-4 U5-3 U5-4
+     U7-3 U7-4 U9-3 U9-4 U10-3 U10-4 U8-3 U8-4 U6-3
+     U6-4 U4-3 U4-4 D3-2 C32-2 C34-2 C36-2 U15-4 U15-9
+     C37-2 J6-2 C33-2 R69-2 R70-2 C43-2 C44-2 U16-4 U16-9
+     C40-2 R75-2 R76-2 C41-2 C39-2 D4-2 C2-2 C1-2 C5-2
+     U2-4 U2-8 R17-1 R15-2 C4-2 D2-1 C3-2 C6-2 C8-2
+     C7-2 C12-2 C11-2 C16-2 C15-2 C20-2 C19-2 C10-2 C9-2
+     C13-2 C14-2 C17-2 C18-2 C22-2 C21-2 L1-2 L6-1 L7-1
+     L8-1 L9-1 J1-4 Q7-3 R45-2 R35-2 C23-2 C25-2 Q3-3
+     Q4-3 R46-2 C24-2 C26-2 R36-2 Q8-3 C27-2 Q11-3 R65-2
+     Q15-3 C29-2 R55-2 C30-2 Q16-3 C28-2 R66-2 R56-2 Q12-3
+     J2-3 U11-3 U12-3 U13-3 U14-3 L2-1 L3-1 J3-3 L4-1
+     J4-3 J5-3 L5-1))
+  (net IN_A
+   (pins
+     R4-1 J1-2))
+  (net IN_B
+   (pins
+     R14-1 J1-3))
+  (net N16720287
+   (pins
+     R1-2 R5-1 D1-3 R10-1 U1-2 R4-2 R2-2))
+  (net N16720602
+   (pins
+     R10-2 U1-6 R6-1))
+  (net N16726862
+   (pins
+     U3-1 R19-2))
+  (net N16727022
+   (pins
+     U5-1 R21-2))
+  (net N16727146
+   (pins
+     U7-1 R23-2))
+  (net N16727275
+   (pins
+     U9-1 R25-2))
+  (net N16728153
+   (pins
+     U4-1 R20-2))
+  (net N16728237
+   (pins
+     R22-2 U6-1))
+  (net N16728321
+   (pins
+     U8-1 R24-2))
+  (net N16728405
+   (pins
+     U10-1 R26-2))
+  (net N16731323
+   (pins
+     C34-1 U15-8))
+  (net N16731329
+   (pins
+     C35-1 U15-6))
+  (net N16731331
+   (pins
+     C35-2 R70-1))
+  (net N16731337
+   (pins
+     U15-5 R68-1 R69-1))
+  (net N16731357
+   (pins
+     U15-3 C31-2 L10-1))
+  (net N16731359
+   (pins
+     U15-1 C31-1))
+  (net N16731383
+   (pins
+     U15-7 R67-1))
+  (net N16731387
+   (pins
+     J6-1 F1-1))
+  (net N16731415
+   (pins
+     D3-1 R71-2))
+  (net N16734062
+   (pins
+     U16-1 C38-1))
+  (net N16734070
+   (pins
+     L11-1 U16-3 C38-2))
+  (net N16734184
+   (pins
+     U16-7 R73-1))
+  (net N16734252
+   (pins
+     U16-8 C41-1))
+  (net N16734260
+   (pins
+     U16-5 R75-1 R74-1))
+  (net N16734320
+   (pins
+     C42-1 U16-6))
+  (net N16734400
+   (pins
+     C42-2 R76-1))
+  (net N16734979
+   (pins
+     R72-2 D4-1))
+  (net N16742721
+   (pins
+     R3-2 U1-3 R7-2 C1-1))
+  (net N16743090
+   (pins
+     U2-2 R15-1 R11-2 R18-1 D2-3 R14-2 R12-2))
+  (net N16743094
+   (pins
+     U2-3 R17-2 C4-1 R13-2))
+  (net N16743196
+   (pins
+     R16-1 U2-6 R18-2))
+  (net N16757311
+   (pins
+     J1-1 JP1-2))
+  (net N16758104
+   (pins
+     L1-1 J1-5))
+  (net N16758710
+   (pins
+     M4-1 L9-2))
+  (net N16758714
+   (pins
+     M3-1 L8-2))
+  (net N16758718
+   (pins
+     M2-1 L7-2))
+  (net N16758722
+   (pins
+     M1-1 L6-2))
+  (net N16788254
+   (pins
+     R8-2 JP1-1))
+  (net N16788302
+   (pins
+     R9-2 JP1-3))
+  (net N16796425
+   (pins
+     R33-1 Q1-1 R27-2))
+  (net N16796454
+   (pins
+     R33-2 Q3-2))
+  (net N16796564
+   (pins
+     R37-2 R43-1 Q5-1))
+  (net N16796593
+   (pins
+     Q7-2 R43-2))
+  (net N16796979
+   (pins
+     R28-2 R34-1 Q2-1))
+  (net N16797008
+   (pins
+     Q4-2 R34-2))
+  (net N16797118
+   (pins
+     Q6-1 R44-1 R38-2))
+  (net N16797147
+   (pins
+     R44-2 Q8-2))
+  (net N16797474
+   (pins
+     R53-1 Q9-1 R47-2))
+  (net N16797503
+   (pins
+     R53-2 Q11-2))
+  (net N16797613
+   (pins
+     R63-1 Q13-1 R57-2))
+  (net N16797642
+   (pins
+     R63-2 Q15-2))
+  (net N16797857
+   (pins
+     R54-1 R48-2 Q10-1))
+  (net N16797886
+   (pins
+     R54-2 Q12-2))
+  (net N16797996
+   (pins
+     Q14-1 R64-1 R58-2))
+  (net N16798025
+   (pins
+     Q16-2 R64-2))
+  (net N16800583
+   (pins
+     J2-4 L2-2))
+  (net N16807869
+   (pins
+     L3-2 J3-4))
+  (net N16808021
+   (pins
+     L4-2 J4-4))
+  (net N16808178
+   (pins
+     J5-4 L5-2))
+  (net OP_ENC_A0
+    (property 
+     (nettype P)
+     (netdir 1))
+   (pins
+     U3-5 R31-2 C23-1 Q3-1))
+  (net OP_ENC_A1
+    (property 
+     (nettype P)
+     (netdir 1))
+   (pins
+     U5-5 Q4-1 C24-1 R32-2))
+  (net OP_ENC_A2
+    (property 
+     (nettype P)
+     (netdir 1))
+   (pins
+     U7-5 C27-1 R51-2 Q11-1))
+  (net OP_ENC_A3
+    (property 
+     (nettype P)
+     (netdir 1))
+   (pins
+     U9-5 C28-1 Q12-1 R52-2))
+  (net OP_ENC_B0
+    (property 
+     (nettype P)
+     (netdir 1))
+   (pins
+     U4-5 Q7-1 R41-2 C25-1))
+  (net OP_ENC_B1
+    (property 
+     (nettype P)
+     (netdir 1))
+   (pins
+     U6-5 C26-1 R42-2 Q8-1))
+  (net OP_ENC_B2
+    (property 
+     (nettype P)
+     (netdir 1))
+   (pins
+     U8-5 Q15-1 R61-2 C29-1))
+  (net OP_ENC_B3
+    (property 
+     (nettype P)
+     (netdir 1))
+   (pins
+     U10-5 C30-1 Q16-1 R62-2))
+  (net P24V
+    (property 
+     (nettype S))
+   (pins
+     C32-1 U15-2 C33-1 F1-2 R67-2 U16-2 C40-1 R73-2 C39-1
+     R2-1 R12-1 R8-1 R37-1 R39-1 Q1-2 Q5-2 R27-1 R29-1
+     Q6-2 R28-1 R40-1 R30-1 Q2-2 R38-1 R59-1 Q9-2 Q13-2
+     R47-1 R49-1 R57-1 R50-1 Q14-2 R60-1 R48-1 Q10-2 R58-1))
+  (net P3.3V
+    (property 
+     (nettype S))
+   (pins
+     D1-2 U1-7 U3-6 U5-6 U7-6 U9-6 U10-6 U8-6 U6-6
+     U4-6 L11-2 C43-1 C44-1 R74-2 R72-1 C2-1 C5-1 U2-7
+     D2-2 C3-1 C6-1 C8-1 C7-1 C12-1 C11-1 C16-1 C15-1
+     C20-1 C19-1 C10-1 C9-1 C13-1 C14-1 C17-1 C18-1 C22-1
+     C21-1 R41-1 R31-1 R32-1 R42-1 R51-1 R61-1 R52-1 R62-1))
+  (net P5V
+    (property 
+     (nettype S))
+   (pins
+     R1-1 R3-1 C36-1 R71-1 C37-1 R68-2 L10-2 R11-1 R13-1
+     R9-1))
+  (net PLC_X0
+   (pins
+     R35-1 Q1-3 R29-2 J2-1 U11-1))
+  (net PLC_X1
+   (pins
+     R30-2 Q2-3 R36-1 U12-1 J3-1))
+  (net PLC_X2
+   (pins
+     Q9-3 R55-1 R49-2 U13-1 J4-1))
+  (net PLC_X3
+   (pins
+     R50-2 R56-1 Q10-3 U14-1 J5-1))
+  (net PLC_Y0
+   (pins
+     R45-1 R39-2 Q5-3 J2-2 U11-2))
+  (net PLC_Y1
+   (pins
+     Q6-3 R40-2 R46-1 U12-2 J3-2))
+  (net PLC_Y2
+   (pins
+     R59-2 R65-1 Q13-3 U13-2 J4-2))
+  (net PLC_Y3
+   (pins
+     Q14-3 R60-2 R66-1 U14-2 J5-2))
+  (net TL_ENC_A
+   (pins
+     R6-2 R19-1 R21-1 R23-1 R25-1))
+  (net TL_ENC_B
+   (pins
+     R22-1 R26-1 R24-1 R20-1 R16-2)))
+)

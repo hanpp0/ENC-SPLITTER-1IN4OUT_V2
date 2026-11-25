@@ -1,0 +1,17 @@
+Version: 1
+RefDes: 0
+FactPartName: "SOT23"
+SubSeriesName: "SOT23"
+PartNum: "SOT23"
+Height: 0
+Mass: 9999
+Package: "SOT23"
+ITHS: 0
+Material_ID: 1
+Package_Material: 0
+Density: 3e-10
+Side: 
+PRT: "C:\PADS Projects\Reuse\3DModels\PartDB\Packages\User\SOT23\SOT23.prt"
+PTD: "C:\PADS Projects\Reuse\3DModels\PartDB\User\SOT23\SOT23.etd"
+
+
