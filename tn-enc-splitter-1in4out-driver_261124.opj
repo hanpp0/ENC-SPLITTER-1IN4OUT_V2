@@ -18,21 +18,44 @@
       (Path "Design Resources" ".\tn-enc-splitter-1in4out-driver_261124.dsn"
          "ENC SPLITTER DRIVER V1.0")
       (Select "Design Resources" ".\tn-enc-splitter-1in4out-driver_261124.dsn"
-         "ENC SPLITTER DRIVER V1.0" "IN"))
+         "ENC SPLITTER DRIVER V1.0" "POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 1097"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 1097"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 38 3295 38 1191")
-        (Scroll "3370 3861")
-        (Zoom "492")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1748 52 535")
+        (Scroll "139 109")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\MSHAN\DESKTOP\ENC-SPLITTER-1IN4OUT_V2\TN-ENC-SPLITTER-1IN4OUT-DRIVER_261124.DSN")
+         "C:\USERS\HANMA\DESKTOP\ENC-SPLITTER-1IN4OUT_V2\TN-ENC-SPLITTER-1IN4OUT-DRIVER_261124.DSN")
       (Schematic "ENC SPLITTER DRIVER V1.0")
-      (Page "IN"))))
+      (Page "IN"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1774 78 561")
+        (Scroll "-66 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\HANMA\DESKTOP\ENC-SPLITTER-1IN4OUT_V2\TN-ENC-SPLITTER-1IN4OUT-DRIVER_261124.DSN")
+      (Schematic "ENC SPLITTER DRIVER V1.0")
+      (Page "OUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1800 104 587")
+        (Scroll "-114 50")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\HANMA\DESKTOP\ENC-SPLITTER-1IN4OUT_V2\TN-ENC-SPLITTER-1IN4OUT-DRIVER_261124.DSN")
+      (Schematic "ENC SPLITTER DRIVER V1.0")
+      (Page "POWER")))
+  (MPSSessionName "hanma"))
