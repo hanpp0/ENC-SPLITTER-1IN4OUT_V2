@@ -1,0 +1,13 @@
+LogFiles
+*.bre
+*.ONL
+*.inf
+*.TMP
+*.DSNlck
+*.opj
+*.err
+*.log
+*.rep
+~*.*
+*.eco
+*.dbk
